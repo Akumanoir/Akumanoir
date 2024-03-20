@@ -4,7 +4,7 @@
 
 I am a enthusiast 22 years old Front End Developer
 
-Recently I'm working as freelancer. I specialize in bringing projects to life
+Recently I am working at avanti as an intern
 
 [![Linkedin Badge](https://img.shields.io/badge/-Cristiano%20Reis-%230077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/cristiano-reis-6228b4215/)](https://www.linkedin.com/in/cristiano-reis-6228b4215/) 
 [![Gmail Badge](https://img.shields.io/badge/-cristianoreisjr@outlook.com-E06951?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cristianoreisjr@outlook.com)](mailto:cristianoreisjr@outlook.com)
